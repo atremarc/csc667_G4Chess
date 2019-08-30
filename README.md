@@ -10,6 +10,7 @@ Project URL: http://54.153.84.211:8000/
 ## Description:
 
 This website allows users to create chess games and play against each other in real time.
+
 The main technologies used were: AWS EC2 hosting, Gatsby (React), Node.js, Express, MongoDB, Socket.io, and Axios.
 
 For more info look at Final Project Documentation uploaded in documentation pdf.
